@@ -194,3 +194,6 @@ footer .grey .left-side .soc_icons .icons{
 header {
     background-color: #464646;
 }
+footer button {
+    color: white;
+}
